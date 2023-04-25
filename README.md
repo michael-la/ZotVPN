@@ -1,2 +1,2 @@
 # ZotVPN
-A simple VPN server and client. Written by Kevin Li and Michael LaBarbera
+A simple network layer VPN server and client. Written by Kevin Li and Michael LaBarbera
